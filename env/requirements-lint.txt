@@ -1,0 +1,4 @@
+# Requirements for linting.
+flake8==6.1.0
+black==23.7.0
+black[jupyter]==23.7.0

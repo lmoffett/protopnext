@@ -1,0 +1,17 @@
+aiohttp==3.8.3
+annoy==1.17.3
+beautifulsoup4==4.12.3
+Cython==0.29.33
+dcn==2.0.0.4.1.2
+matplotlib==3.6.3
+opencv-python==4.7.0.68
+pacmap==0.7.0
+pandas==2.0.2
+pytorch-lightning==1.9.0
+tensorboard==2.14.0
+tokenize-rt==5.2.0
+torch==1.13.1
+torch-summary==1.4.4
+torchaudio==0.13.1
+torchvision==0.14.1
+wandb==0.16.6

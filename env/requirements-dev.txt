@@ -1,0 +1,14 @@
+coverage==7.1.0
+ipykernel==6.21.1
+ipython==8.9.0
+jupyter_client==8.0.2
+jupyter_core==5.2.0
+notebook==7.0.3
+pre-commit==3.0.4
+pytest==7.2.1
+pytest-cov==4.0.0
+pytest-xdist==3.1.0
+virtualenv==20.18.0
+
+-r ./requirements.txt
+-r ./requirements-lint.txt
